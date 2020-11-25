@@ -3,10 +3,9 @@
 [![HitCount](http://hits.dwyl.com/kairos03/RESUME.svg)](http://hits.dwyl.com/kairos03/RESUME)
 
 ## 소개
-[사진]
 - 이름: 신은섭
 - 관심분야: 딥러닝, 모델 압축, 머신러닝, 컴퓨터 비전, 클라우드 컴퓨팅
-- 군필: 미필 (전문연구요원 구직 희망 중!)
+- 군필: 미필 (**전문연구요원 구직 희망 중!**)
 - Email: kairos9603@gmail.com
 - GitHub: [github.com/kairos03](https://github.com/kairos03)
 - LinkedIn: [linkedin.com/in/kairos03](www.linkedin.com/in/kairos03/)
