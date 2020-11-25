@@ -11,16 +11,14 @@
 - GitHub: [github.com/kairos03](https://github.com/kairos03)
 - LinkedIn: [linkedin.com/in/kairos03](www.linkedin.com/in/kairos03/)
 
-> 한마디
-
-## 경력
-- KIST-Europe, Intern. (2017.09 ~ 2018.01)
-- Kakao corp, 게임사업부분 A-TF Team. (2017.07 ~ 2017.08)
-
 ## 학력
 - 경희대학교 일반대학원 컴퓨터공학과 재학 (2020.03 ~ 2022.02(졸업예정))
 - 경희대학교 전자정보대학 컴퓨터공학과 졸업 (2015.03 ~ 2020.02)
 - 한국디지털미디어고등학교 해킹방어과 졸업 (2012.03 ~ 2015.02)
+
+## 경력
+- KIST-Europe, Intern. (2017.09 ~ 2018.01)
+- Kakao corp, 게임사업부분 A-TF Team. (2017.07 ~ 2017.08)
 
 ## 출판 논문
 ### Global Weight: 심층 신경망의 압축을 위한 네트워크 수준의 가중치 공유
@@ -101,7 +99,6 @@ Docker를 이용하여 서비스를 Dockerize하여 배포 할 수 있고, 1년 
 - DeepLearning(Kwoege Distillation, Efficient Model Design)
 - 하이브리드 클라우드
 
-
 ## 프로젝트
 
 ### Projcet Ocean
@@ -149,6 +146,5 @@ Docker를 이용하여 서비스를 Dockerize하여 배포 할 수 있고, 1년 
 - openstack-i18n 오타 수정 [Commit](https://github.com/openstack/i18n/commit/7378790a597da6146f51aa663dadc697bf7e33b2)
 - Openstack-kr Upstream 행사 참여(2017)
 
-## 수상 경력
-
-## 지인 평가
+[//]: <> (## 수상 경력)
+[//]: <> (## 지인 평가)
