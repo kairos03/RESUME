@@ -36,7 +36,7 @@
   - Eunseop Shin, Seoungwoo Pyo, Sung-Ho Bae(Kyunghee Univ.)
   - Korea Computer Congress KCC2019, Undergraduate student poster.
   - Existing DARTS only had very simple operations as candidates. The self-attention operation showed good performance in the model found by humans. Therefore, we constructed a new search space by adding the Self-Attention calculation to the DARTS search space.
-  - [paper](publications/2019KCC_깊이%20예측%20백본%20네트워크%20모델을%20사용한%20새로운%20딥러닝%20기반%20객체%20검출%20방법.pdf) [Poster](publications/2019KCC_깊이%20예측%20백본%20네트워크%20모델을%20사용한%20새로운%20딥러닝%20기반%20객체%20검출%20방법%20포스터.pdf)
+  - [paper](publications/2019KCC_깊이%20예측%20백본%20네트워크%20모델을%20사용한%20새로운%20딥러닝%20기반%20객체%20검출%20방법.pdf) [poster](publications/2019KCC_깊이%20예측%20백본%20네트워크%20모델을%20사용한%20새로운%20딥러닝%20기반%20객체%20검출%20방법%20포스터.pdf)
 
 ### Monocular Image Depth Estimation using Synthetic Soccer Data based on Deep Neural Networks
   - Eunseop Shin, Youmin Kim, Sung-Ho Bae(Kyunghee Univ.)
