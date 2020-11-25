@@ -29,7 +29,7 @@
 ### A New Neural Architecture Search Using Self-Attention Operation
   - Eunseop Shin, Sung-Ho Bae(Kyunghee Univ.)
   - Korea Software Congress KSC2019, Undergraduate student poster.
-  - 기존의 DARTS는 매우 간단한 형태의 연산들만 후보로 갖고 있었다. Self-Attention연산은 사람이 찾은 모델에서 좋은 성능을 보였다. 이에 우리는 DARTS의 Search Space에 Self-Attention연산을 추가하여 새로운 Search Space를 구성하였다.
+  - Existing DARTS only had very simple operations as candidates. The self-attention operation showed good performance in the model found by humans. Therefore, we constructed a new search space by adding the Self-Attention calculation to the DARTS search space.
   - [paper](publications/2019KSC_Self-Attention연산을-적용한-Neural%20Architecture%20Search.pdf)
 
 ### A New Deep Learning based Object Detection Method using a Deep Estimation Backbone Network Model
