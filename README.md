@@ -17,7 +17,7 @@
 
 ## 경력
 - KIST-Europe, Intern. (2017.09 ~ 2018.01)
-- Kakao corp, 게임사업부분 A-TF Team. (2017.07 ~ 2017.08)
+- Kakao corp., 게임사업부분 A-TF Team. (2017.06 ~ 2017.07)
 
 ## 출판 논문
 ### Global Weight: 심층 신경망의 압축을 위한 네트워크 수준의 가중치 공유
@@ -54,7 +54,7 @@
 
 ## 사용기술
 ### Deep Learning and Machine Leraning
-최신 딥러닝 기술을 구현할 수 있으면 직접 연구하고 성능을 개선 할 수 있습니다. 
+최신 딥러닝 기술을 구현할 수 있으며, 직접 연구하고 성능을 개선 할 수 있습니다. 
 
 - Python
 - Pytorch(main)
@@ -123,7 +123,7 @@ Docker를 이용하여 서비스를 Dockerize하여 배포 할 수 있고, 1년 
 
 ### 스무고개 게임(인공지능 스피커)
 - 소개: 카카오i 인공지능 스피커에 들어갈 스무고개 게임개발.
-- 기간: 2017.08~2017.09
+- 기간: 2017.06 ~ 2017.07
 - 직책: 카카오 게임사업부분 A-TF Team, Intern.
 - 역할: 스무고개 데이터 수집, 가공. 머신러닝 모델 학습, 추론 엔드포인트 개발.
 - 관련기술: Data Crawling(Selenium, Beautiful soup), 머신러닝(scikit-learn), MySQL, Flask.
