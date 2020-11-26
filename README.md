@@ -8,7 +8,7 @@
 - 군필: 미필 (**전문연구요원 구직 희망 중!**)
 - Email: kairos9603@gmail.com
 - GitHub: [github.com/kairos03](https://github.com/kairos03)
-- LinkedIn: [linkedin.com/in/kairos03](www.linkedin.com/in/kairos03/)
+- LinkedIn: [linkedin.com/in/kairos03](https://www.linkedin.com/in/kairos03/)
 
 ## 학력
 - 경희대학교 일반대학원 컴퓨터공학과 재학 (2020.03 ~ 2022.02(졸업예정))
