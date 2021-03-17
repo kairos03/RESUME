@@ -77,7 +77,7 @@
 - Frontend
   - Nodejs(Vue.js, Vuetify)
 
-### Cloud Computing, DebOps
+### Cloud Computing, DevOps, MLOps
 Docker를 이용하여 서비스를 Dockerize하여 배포 할 수 있고, 1년 이상의 Kubernetes 클러스터 구축, 운영 경험이 있습니다.
 
 - Docker
@@ -108,7 +108,7 @@ Docker를 이용하여 서비스를 Dockerize하여 배포 할 수 있고, 1년 
 - 기간: 2020.02 ~ 
 - 직책: 경희대학교 MLVC Lab 석사, Infrastructure Team Leader.
 - 역할: kubernetes cluster 구축 및 운영, gpu 인스턴스 및 작업 할당 Web Application 구현 및 운영.
-- 관련기술: Kubernetes, Docker, nodejs, express, vue, firebase, ansible, nfs.
+- 관련기술: Kubernetes, Docker, node.js, express, vue.js, firebase, ansible, nfs, mongodb.
 
 ### 딥러닝을 이용한 PCB 설계 오류 탐지
 - 소개: PCB기판 설계 오류를 공장에서 만들기 전에 미리 판별하여 탐지하는 모델 개발.
@@ -135,7 +135,7 @@ Docker를 이용하여 서비스를 Dockerize하여 배포 할 수 있고, 1년 
 ### Ocean
 - 개인 프로젝트
 - on-premis DeepLearning 학습용 GPU 클라우드 서비스
-- [GitHub](https://github.com/kairos03/Ocean) (공개예정)
+- [GitHub](https://github.com/kairos03/Ocean)
 
 ### Kairos-smi
 - 개인 프로젝트
