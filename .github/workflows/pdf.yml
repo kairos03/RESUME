@@ -21,7 +21,7 @@ jobs:
 #     - name: install pandoc
 #       run: sudo dpkg -i /tmp/pandoc-2.13-1-amd64.deb
     - name: convert md to pdf
-      run: pandoc -V mainfont='NanumMyeongjo' -V sansfond='NanumGothic' -V monofont='NanumGothic' -f markdown -o README.pdf README.md
+      run: pandoc --latex-engine=xelatex -V mainfont='NanumMyeongjo' -V sansfond='NanumGothic' -V monofont='NanumGothic' -f markdown -o README.pdf README.md
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v1.6.1
       env:
