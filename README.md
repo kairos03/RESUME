@@ -98,10 +98,17 @@ Docker를 이용하여 서비스를 Dockerize하여 배포 할 수 있고, 1년 
 끊임없이 공부해야 하는 것이 개발자라 생각합니다.  
 현재는 다음의 것들을 공부하고 있습니다.  
 
-- DeepLearning(Kwoege Distillation, Efficient Model Design)
+- DeepLearning(Model Compression, Efficient Model Design, Knowledge Distillation)
 - 하이브리드 클라우드
 
 ## 프로젝트
+
+### Edge device를 위한 모델 경량화
+- 소개: Edge device를 위한 모델 경량화 및 포팅
+- 기간: 2021. 03 ~
+- 직책: 경희대학교 MLVC Lab 석사
+- 역할: 모델 경량화 및 Nvidia Jetson, Raspberry pi 4, Coral Edge TPU에 포팅
+- 관련기술: Model Compression, Pytorch, Tensor-RT.
 
 ### Projcet Ocean
 - 소개: 연구실 내 딥러닝 학습을 위한 GPU 클라우드 서비스
