@@ -10,22 +10,16 @@ jobs:
   convert_md: 
     runs-on: ubuntu-latest
     steps:
-    # We must checkout the latest version of the code to get a copy of all .md files
     - name: Checkout Code
       uses: actions/checkout@v2.0.0
       with:
         fetch-depth: 1
-#     - name: Create .pdfs
-#       uses: scottypate/md-to-pdf@v0.1.1
-#       env: 
-#         # Use this parameter to determine where the generated .pdf(s) will be stored.
-#         PDF_DIR: './pdfs'
-    - name: install korean fonts
-      run: sudo apt-get update && sudo apt-get install -y fonts-nanum
+    - name: donwload pandoc
+      run: wget https://github.com/jgm/pandoc/releases/download/2.13/pandoc-2.13-1-amd64.deb -P /tmp
+    - name: install pandoc
+      run: sudo dpkg -i /tmp/pandoc-2.13-1-amd64.deb
     - name: convert md to pdf
-      uses: docker://pandoc/latex:2.9
-      with:
-        args: -f gfm --pdf-engine=xelatex -V mainfont='NanumMyeongjo' -V sansfond='NanumGothic' -V monofont='NanumGothic' --output=README.pdf README.md
+      run: pandoc -f gfm --pdf-engine=xelatex -V mainfont='NanumMyeongjo' -V sansfond='NanumGothic' -V monofont='NanumGothic' -o README.pdf README.md
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v1.6.1
       env:
@@ -35,4 +29,4 @@ jobs:
         PULL_REQUEST_TITLE: Add .pdf files.
         PULL_REQUEST_BRANCH: pdf-add
         PULL_REQUEST_BODY: Here are the .pdf files you requested.
-        PULL_REQUEST_REVIEWERS: scottypate
+        PULL_REQUEST_REVIEWERS: kairos03
