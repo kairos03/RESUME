@@ -15,7 +15,7 @@ jobs:
       with:
         fetch-depth: 1
     - name: install dependency
-      run: sudo apt-get update && sudo apt-get install -y fonts-nanum librsvg2-bin texlive pandoc
+      run: sudo apt-get update && sudo apt-get install -y fonts-nanum librsvg2-bin pandoc texlive-latex-base ko.tex texstudio texlive-fonts-recommended
 #     - name: donwload pandoc
 #       run: wget https://github.com/jgm/pandoc/releases/download/2.13/pandoc-2.13-1-amd64.deb -P /tmp
 #     - name: install pandoc
