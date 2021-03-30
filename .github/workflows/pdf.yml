@@ -20,10 +20,12 @@ jobs:
 #       env: 
 #         # Use this parameter to determine where the generated .pdf(s) will be stored.
 #         PDF_DIR: './pdfs'
+    - name: install korean fonts
+      run: apt-get update && apt-get install -y fonts-nanum
     - name: convert md to pdf
       uses: docker://pandoc/latex:2.9
       with:
-        args: --output=README.pdf README.md
+        args: -f gfm --pdf-engine=xelatex -V mainfont='NanumMyeongjo' -V sansfond='NanumGothic' -V monofont='NanumGothic' --output=README.pdf README.md
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v1.6.1
       env:
