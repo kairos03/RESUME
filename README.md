@@ -1,7 +1,5 @@
 # RESUME
 
-[![HitCount](http://hits.dwyl.com/kairos03/RESUME.svg)](http://hits.dwyl.com/kairos03/RESUME)
-
 ## 소개
 - 이름: 신은섭
 - 관심분야: 딥러닝, 모델 압축, 머신러닝, 컴퓨터 비전, 클라우드 컴퓨팅
